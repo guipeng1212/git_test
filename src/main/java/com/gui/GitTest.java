@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("是一个测试master");
         System.out.println("是一个测试master2");
         System.out.println("push到github");
+         System.out.println("githubpull到本地");
     }
 }
